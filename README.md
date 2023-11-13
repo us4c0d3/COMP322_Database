@@ -1,6 +1,6 @@
-# Database
+# Introduction to Databases
 
-* [COMP322] Database by Prof.Youngkyoon Suh
+* [COMP322] Introduction to Databases by Prof.Youngkyoon Suh
 
 * 2023-Fall
 
